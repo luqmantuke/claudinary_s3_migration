@@ -1,0 +1,4 @@
+.env
+firebase_admin.json
+url_mapping.json
+venv/

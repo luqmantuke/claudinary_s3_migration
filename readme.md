@@ -29,7 +29,6 @@
 
 - **How to run**:
   ```bash
-  cd /Users/newuser/Documents/Projects/Yanga/Hersi/migration
   source venv/bin/activate
   python main.py
   ```
@@ -62,7 +61,6 @@
 
 - **How to run**:
   ```bash
-  cd /Users/newuser/Documents/Projects/Yanga/Hersi/migration
   source venv/bin/activate
   python migrate_claudinary_firebase.py
   ```
